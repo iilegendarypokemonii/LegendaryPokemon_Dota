@@ -59,12 +59,12 @@ The formula for effective HP is explained on [the dota2 wiki](https://dota2.fand
 ![[Formula 2.png]]
 *Note: The R (armor value) between vertical lines |R| means absolute armor. This means it can't be a negative value.*
 
-![[armor_effectivity_1.png]]
+![[__Attachments/armor_effectivity_1.png]]
 
 The way armor works was changed in June 2020's patch 7.27. A post from /u/Kitty-Cat-King shows us that the old armor mechanic could reach 95% physical damage reduction at 140 armor compared to 90% now. You could even reach 100% physical damage reduction at 225 armor. It's probably good that Icefrog changed this back to how it was before October 2017's patch 7.07.
 https://www.reddit.com/r/DotA2/comments/hhri52/old_vs_new_armor_formulas/
 
-![[armor_effectivity_old_new_2.png]]
+![[__Attachments/armor_effectivity_old_new_2.png]]
 
 ### 2. Lone Druid items
 Aghanim's Scepter on Lone Druid hasn't been popular for a while. In the April 2024 it has seen a resurgence in the builds of Lone Druid players such as Qojqva, even as a third item. In April 2024 his win/loss record is 11/4 (73% winrate).
@@ -165,7 +165,7 @@ To this you can add items from your teammates.
 |         65          |      3.1       | Buckler (teammate)            | 2 aura armor, stacks with Vladmir's      |
 Together with the armor from the [[Lone Druid Aghanim's armor#Sven Warcry table |Sven Warcry table]] (60 armor) this would add up to 125 bonus armor. While being "optimal", this extra 41 armor compared to the [[Lone Druid Aghanim's armor#2.1. Standard item build Table|build based on Qojqva's items]] adds 6% more armor reduction from 82% to 88%. A Slithereen Crush now deals 36 damage compared to the 51 damage from the other build. This increase is probably not worth planning your build around. 
 
-![[armor_effectivity_2.png]]
+![[__Attachments/armor_effectivity_2.png]]
 
 ### 3. Abilities and other reductions
 Aside from items there are abilities you can use to push your armor value further. You only have 5 heroes in your team, 2 of which would be Sven and Lone Druid. You can't make use of everything, so you will have to choose a few while still having a good lineup to get through lanes, teamfights and a highground siege. 
@@ -197,7 +197,7 @@ You can get 60 armor from 5 unique hero's abilities (ignoring Sven) and at max 2
 Adding 55 armor to the [[Lone Druid Aghanim's armor#2.1. Standard item build Table|standard build's armor]] of 80 you will reach 135 armor. This translates to 89% physical damage reduction. Slithereen Crush would do 33 damage. 
 
 Adding this 55 armor to the [[Lone Druid Aghanim's armor#2.4. "Optimal" item table|"optimal" build's armor]] of 125 you will reach 180 armor. This translates to 91.5% physical damage reduction. Slithereen Crush would do 25.5 damage. 
-![[ingame_180_armor.png]]
+![[__Attachments/ingame_180_armor.png]]
 
 Assuming you won't get every buff, we set a baseline of 25 bonus armor. The [[Lone Druid Aghanim's armor#2.1. Standard item build Table|standard build]] reaches 105 armor and the [[Lone Druid Aghanim's armor#2.4. "Optimal" item table|"optimal" build]] reaches 150 armor.
 
@@ -209,7 +209,7 @@ One mechanic is [incoming damage manipulation](https://liquipedia.net/dota2game/
 
 Another mechanic is a [damage barrier](https://liquipedia.net/dota2game/Damage_Barrier), e.g. a shield like a Shield Rune or Aphotic Shield. The value of this damage barrier gets reduced after damage reductions, making it benefit from high armor. There aren't many good damage barriers in the game, the best being Timbersaw's Reactive Armor Aghanim's Scepter upgrade. This already makes him virtually impossible to kill through, so adding armor will not add much value. The most practical source of damage barrier is a Shield Rune, which can be picked up or bottled before a highground siege. Other noteworthy damage barriers are Tinker's Defense Matrix and Outworld Destroyer's Essence Flux.
 
-![[hero_OD_aghs.png]]
+![[__Attachments/hero_OD_aghs.png]]
 
 A more accessible mechanic is [evasion](https://liquipedia.net/dota2game/Evasion). Your evasion effectively adds another multiplier to your armor. Evasion can easily be gotten through items such as Butterfly (35% evasion), Radiance (20% evasion and 15% miss chance) and Aviana's Feather (25% evasion).
 
@@ -228,7 +228,7 @@ Taking Faceless Void as a baseline, you get 3 agility gain and 19 agility. At le
 Together Faceless Void at level 20 would have 25 armor with 4 item slots. The [[Lone Druid Aghanim's armor#2.1. Standard item build Table|standard build]] with [[Lone Druid Aghanim's armor#3.1. Abilities|baseline buffs]] reaches 130 armor (89% physical reduction), meaning Slithereen Crush would do 33 damage. The [[Lone Druid Aghanim's armor#2.4. "Optimal" item table|"optimal" build]] with baseline buffs reaches 175 armor (91% physical reduction), meaning Slithereen Crush would do 27 damage.
 
 ##### Axe
-![[hero_axe.png]]
+![[__Attachments/hero_axe.png]]
 - [Axe](https://liquipedia.net/dota2game/Axe) at level 20 will have 9 armor from base stats. 
 - He builds Phase Boots, Blademail and Aghanim's adding up to 21 armor.
 - Berserker's Call adds 25 armor for 3 seconds and his Aghanim's Scepter grants him 7 armor per affected target with Battle Hunger. 
@@ -236,7 +236,7 @@ Together Faceless Void at level 20 would have 25 armor with 4 item slots. The [[
 - Axe's [[Wiki abilities#Axe - Battle Hunger|Battle Hunger]] has an armor multiplier for his damage of 1. With the level 25 talent this multiplier increases to 2. Adding the armor totals, this adds 198 for the [[Lone Druid Aghanim's armor#2.1. Standard item build Table|standard build]] and 243 damage with the [[Lone Druid Aghanim's armor#2.4. "Optimal" item table|"optimal" build]], increasing to 396 dps and 486 dps respectively. This damage scales with spell amp and will benefit from minus armor. The right items, more Culling Blade stacks and allies like Slardar and Bloodseeker can boost this damage over 1000 dps. 
 
 ##### Bristleback
-![[hero_bristleback.png]]
+![[__Attachments/hero_bristleback.png]]
 - [Bristleback](https://liquipedia.net/dota2game/Bristleback) at level 20 will have 10 armor from base stats. 
 - [[Wiki abilities#Bristleback - Bristleback|Bristleback's passive]] reduces damage he takes from the back with 16%/24%/32%/40% (24%/32%/40%/48% with level 15 talent).
 - Bristleback reduces damage he takes from the side with 8%/12%/16%/20% (12%/16%/20%/24% with level 15 talent).
@@ -244,7 +244,7 @@ Together Faceless Void at level 20 would have 25 armor with 4 item slots. The [[
 - Keeping Bristleback alive for a long time allows him to build up Quill Spray stacks and Warpath stacks with which he can outsustain the enemy. 
 
 ##### Brewmaster
-![[hero_brewmaster.png]]
+![[__Attachments/hero_brewmaster.png]]
 - [Brewmaster](https://liquipedia.net/dota2game/Brewmaster) at level 20 will have 10 armor from base stats. 
 - He often builds auras such as Radiance, Vladmir's Offering and Assault Cuirass. This adds up to 17 armor with Spirit Link in [[Wiki abilities#Brewmaster - Primal Split|Primal Split]], as only the auras will work. Enemies also get 15% miss chance without debuff immunity.
 - The Earth Brewling gets the [[Wiki abilities#Brewmaster - Earth Brewling Debuff Immunity|Debuff Immunity]] passive, meaning he can't be stunned by normal means and it gets 50% magic resistance. He also gets the [[Wiki abilities#Brewmaster - Earth Brewling Demolish|Demolish]] passive, adding 90/170/250 bonus damage to buildings. 
@@ -254,13 +254,13 @@ Together Faceless Void at level 20 would have 25 armor with 4 item slots. The [[
 - Add more attack speed from Drums of Endurance / Boots of Bearing and Solar Crest for a faster push. Combining this combination with other attack speed buffs (e.g. Io's Overcharge or Invoker's Alacrity) will make the tower fall really fast. 
 
 ##### Leshrac
-![[hero_leshrac.png]]
+![[__Attachments/hero_leshrac.png]]
 - [Leshrac](https://liquipedia.net/dota2game/Leshrac) at level 20 will have 13 armor from base stats. 
 - With Shiva's Guard he reaches 29 armor. 
 - At level 20 Leshrac gets a talent reducing all damage by 20% when his [[Wiki abilities#Leshrac - Pulse Nova|Pulse Nova]] is active.
 
 ##### Lycan
-![[hero_lycan.png]]
+![[__Attachments/hero_lycan.png]]
 - [Lycan](https://liquipedia.net/dota2game/Lycan) at level 20 will have 9 armor from base stats. 
 - Rushing Helm of the Overlord into Vladmir's Offering or Assault Cuirass is a common build. This adds 25 armor with Spirit Link. 
 - Lycan also has Howl, which is a 25%/30%/35%/40% base attack damage reduction. At level 25 you can upgrade this with a talent that makes it affect total attack damage.
@@ -269,13 +269,13 @@ Together Faceless Void at level 20 would have 25 armor with 4 item slots. The [[
 - Do wolfs need armor?
 
 ##### Luna
-![[hero_luna.png]]
+![[__Attachments/hero_luna.png]]
 - [Luna](https://liquipedia.net/dota2game/Luna) at level 20 will have 17 armor from base stats. 
 - With the same items as our Faceless Void example, she reaches 29 armor. 
 - In addition to high armor, Luna's [[Wiki abilities#Luna - Moon Glaives|Moon Glaives]] shard upgrade gives her 25% damage reduction. 
 
 ##### Shadow Demon
-![[hero_shadow_demon.png]]
+![[__Attachments/hero_shadow_demon.png]]
 - [Shadow Demon](https://liquipedia.net/dota2game/Shadow_Demon) at level 20 will have 10 armor from base stats. 
 - In this combination you won't be Spirit Linking Shadow Demon, but he will use [[Wiki abilities#Shadow Demon - Disseminate|Disseminate]] on a different hero you're Spirit Linking.
 - Disseminate shares damage in 675 range of the target, before any damage reductions. The extra armor from Spirit Link gives the target a lot of effective HP, meaning disseminate can do a lot of damage if the enemy commits.
