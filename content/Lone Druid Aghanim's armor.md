@@ -5,37 +5,6 @@ In addition Spirit Link gives 60% shared lifesteal and an attack speed of 87.75.
 See: [[Wiki abilities#Lone Druid - Spirit Link (Fandom wiki)|Lone Druid - Spirit Link (Fandom wiki)]]
 See: [Lone Druid - Spirit Link (Liquipedia wiki external link)](https://liquipedia.net/dota2game/Lone_Druid#Spirit_Link) 
 
-### Table of contents
-- [[#1. Main strength|1. Main strength]]
-	- [[#1. Main strength#1.1 Sven Warcry table|1.1 Sven Warcry table]]
-	- [[#1. Main strength#1.2 Armor effectivity|1.2 Armor effectivity]]
-- [[#2. Lone Druid items|2. Lone Druid items]]
-	- [[#2. Lone Druid items#2.1. Standard item build Table|2.1. Standard item build Table]]
-	- [[#2. Lone Druid items#2.2. Armor item table|2.2. Armor item table]]
-	- [[#2. Lone Druid items#2.3. Neutral item table|2.3. Neutral item table]]
-	- [[#2. Lone Druid items#2.4. "Optimal" item table|2.4. "Optimal" item table]]
-- [[#3. Abilities and other reductions|3. Abilities and other reductions]]
-	- [[#3. Abilities and other reductions#3.1. Abilities|3.1. Abilities]]
-		- [[#3.1. Abilities#Summing things up|Summing things up]]
-	- [[#3. Abilities and other reductions#3.2. Additional armor amplifications|3.2. Additional armor amplifications]]
-	- [[#3. Abilities and other reductions#3.3. Spirit link targets|3.3. Spirit link targets]]
-		- [[#3.3. Spirit link targets#Axe|Axe]]
-		- [[#3.3. Spirit link targets#Bristleback|Bristleback]]
-		- [[#3.3. Spirit link targets#Brewmaster|Brewmaster]]
-		- [[#3.3. Spirit link targets#Leshrac|Leshrac]]
-		- [[#3.3. Spirit link targets#Lycan|Lycan]]
-		- [[#3.3. Spirit link targets#Luna|Luna]]
-		- [[#3.3. Spirit link targets#Shadow Demon|Shadow Demon]]
-		- [[#3.3. Spirit link targets#Spectre|Spectre]]
-		- [[#3.3. Spirit link targets#Other noteworthy heroes|Other noteworthy heroes]]
-- [[#4. Playstyle|4. Playstyle]]
-	- [[#4. Playstyle#4.1. Example teams|4.1. Example teams]]
-		- [[#4.1. Example teams#Brewmaster push|Brewmaster push]]
-		- [[#4.1. Example teams#Farm heavy Lone Druid|Farm heavy Lone Druid]]
-		- [[#4.1. Example teams#Ranged core|Ranged core]]
-		- [[#4.1. Example teams#Offlane Lone Druid|Offlane Lone Druid]]
-- [[#5. Conclusions|5. Conclusions]]
-
 ### 1. Main strength
 Combining Lone Druid's [[Wiki abilities#Lone Druid - Spirit Link (Fandom wiki)|Spirit Link]] with Sven's [[Wiki abilities#Sven - Warcry|Warcry]] gets you high armor values. Spirit Link has an uptime of 20 seconds and a downtime of 20 seconds. Warcry has an uptime of 10 seconds (14 seconds with the lvl 10 talent) and a downtime of 10 seconds (6 seconds with the lvl 10 talent). Below a table with the added armor from Spirit Link. 
 
@@ -49,6 +18,7 @@ Sven's Warcry gives 15 bonus armor at level 4. Because it's an aura, Lone druid'
 | 37.85                | 5.3            | Lone Druid lvl 18 stats | 32 agility. Only base stats and the stats from Aghanim's         |
 | 44.45                | 6.6            | Lone Druid - True Form  | True Form gives 8/10/12 armor and 500/1000/1500 HP to Lone Druid |
 | 59.95                | 15.5           | Sven - lvl 20 talent    | The level 20 talent gives +10 Warcry aura armor                  |
+
 An armor value of 60 means at least 78% Physical Resistance for the buffed hero assuming armor is initially not negative. Because of diminishing returns (see [[Lone Druid Aghanim's armor#1.2 Armor effectivity|armor effectivity]]) 73 armor will only give you 18% more damage reduction compared to 25 armor. 
 
 This still means that if a Slardar hits you with a Slithereen Crush (300 Physical dmg), the damage (300 * 0.4 = 120) it deals at 25 armor gets reduced by 45% with 60 armor (300 * 0.22 = 66). While not game breaking, you can push this armor value further with items and hero combinations.
