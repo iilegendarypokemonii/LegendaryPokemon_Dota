@@ -7866,7 +7866,6 @@ body:not(.alt-chkbx-off) .markdown-source-view.mod-cm6 .HyperMD-task-line[data-t
   background-color: transparent;
   top: -4px;
   left: 0px;
-  -webkit-mask-image: unset;
 }
 
 ul > li.task-list-item[data-task=x] > ul li:not([data-task=x]) {
@@ -10812,12 +10811,6 @@ iframe {
   background-color: var(--link-background-hover);
 }
 
-.writing-document:not(.is-mobile),
-.writing-document.is-tablet.is-tablet {
-  /* Fix embeds */
-  /* Embed */
-  /* .markdown-preview-section { min-height: 100% !important; } */
-}
 .writing-document:not(.is-mobile) .markdown-source-view.mod-cm6 .cm-scroller,
 .writing-document.is-tablet.is-tablet .markdown-source-view.mod-cm6 .cm-scroller {
   padding: 0;
